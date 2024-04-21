@@ -1,5 +1,4 @@
 """
-authors:
 task: 7th task - solving nonlinear systems of equations
 equations:
 ---first Kirchhoff law---
